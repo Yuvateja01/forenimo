@@ -85,7 +85,8 @@
         "build": "node scripts/build.js",
         "test": "node scripts/test.js",
         "predeploy": "yarn run build",
-        "deploy": "gh-pages -d build"
+        "deploy": "gh-pages -d build",
+        "heroku-predeploy":"yarn start"
     },
     "eslintConfig": {
         "extends": "react-app"
