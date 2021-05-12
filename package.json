@@ -19,7 +19,7 @@
         "bootstrap": "^4.3.1",
         "camelcase": "^5.2.0",
         "case-sensitive-paths-webpack-plugin": "2.2.0",
-        "chart.js": "^2.7.3",
+        "chart.js": "^2.9.4",
         "classnames": "latest",
         "css-loader": "2.1.1",
         "dotenv": "6.2.0",
